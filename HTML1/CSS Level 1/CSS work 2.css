@@ -1,0 +1,13 @@
+/* selected tag {
+property : value */
+body {
+  background:url(IMG.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+Color:Black;}
+div{
+  color: red;}
+  h2{color: orange;}
+  table{color: darkgreen;}
+  table thead{color: black;}
+  span{color: blue;}

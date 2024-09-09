@@ -1,0 +1,14 @@
+/* selected tag { 
+property : value} */
+.firstDiv {
+  color: red;
+  border-color: blue;
+  border-width: thin;
+  border-style: solid;}
+.secondDiv {color: purple;}
+.hire {
+  color: green;
+  margin: left 200px;}
+  #slogan {
+    color: blue;
+    text-decoration: line-through;}
